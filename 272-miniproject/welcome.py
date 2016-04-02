@@ -19,7 +19,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def Welcome():
-    return app.send_static_file('index.html')
+    return app.send_static_file('DataProcessing_result.html')
 
 @app.route('/myapp')
 def WelcomeToMyapp():
