@@ -17,11 +17,7 @@ Country Statistics: HIV/AIDS - People Living With HIV/AIDS
 #2. APIs and containers that we have uesd
 We are using Apache Spark API(Bluemix Service) for data analysis and Python Flask(Bluemix boilerplate) for building a website to demonstrate the result of analysis.
 
-The source code and result in iPython can be found on the Github:
-
-https://github.com/GingerHugo/CMPE272-mini-project-2
-
-The URL of the webpage is:
+The source code and result in iPython can be found on this repository in Github and the URL of the webpage is:
 
 http://272-miniproject.mybluemix.net/
 
