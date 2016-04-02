@@ -18,9 +18,11 @@ Country Statistics: HIV/AIDS - People Living With HIV/AIDS
 We are using Apache Spark API(Bluemix Service) for data analysis and Python Flask(Bluemix boilerplate) for building a website to demonstrate the result of analysis.
 
 The source code and result in iPython can be found on the Github:
+
 https://github.com/GingerHugo/CMPE272-mini-project-2
 
 The URL of the webpage is:
+
 http://272-miniproject.mybluemix.net/
 
 Some screenshots of codes:
@@ -38,37 +40,44 @@ Correlation coeffient calculation
 #3. Explore Data(statistics)
 
 Health expenditure:
+
 ![Alt text](images/pic-1.png)
 ![Alt text](images/pic-2.png)
 
 
 Life expectancy:
+
 ![Alt text](images/pic-3.png)
 ![Alt text](images/pic-4.png)
 
 
 HIV/AIDS suffering people number:
+
 ![Alt text](images/pic-5.png)
 
 
 #4. Further analysis
 
 Compare between life expectancy and health expenditure:
+
 correlation coefficient = 0.1578
+
 covariance = 3.8624
 
 ![Alt text](images/pic-6.png)
 
 Compare between life expectancy and HIV/AIDS suffering people:
+
 correlation coefficient = -0.2660
+
 covariance = -1776240.6170
 
 ![Alt text](images/pic-7.png)
 
 Compare between health expenditure and HIV/AIDS suffering people:
+
 correlation coefficient = 0.0242
+
 covariance = 44419.4852
 
 ![Alt text](images/pic-8.png)
-
-
